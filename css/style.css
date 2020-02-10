@@ -304,6 +304,9 @@ body {
         font-size: 18px;
         margin-bottom: 5px;
     }
+    .logo img {
+        max-width: 100px;
+    }
 }
 @media screen and (max-width: 540px) {
     .hero__year, .hero__title {font-size: 26px;}
